@@ -1,4 +1,4 @@
-# Gang-of-Four-Dessign-Patterns
+# Gang-of-Four-Design-Patterns
 
 The Gang of Four are the authors of the book “Design Patterns: Elements 
 of Reusable Object-Oriented Software”.  This book describes various 
